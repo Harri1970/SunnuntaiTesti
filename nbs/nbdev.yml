@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "SunnuntaiTesti"
+  site-url: "https://Harri1970.github.io/SunnuntaiTesti"
+  description: "Testing only, first test from SolveIT"
+  repo-branch: main
+  repo-url: "https://github.com/Harri1970/SunnuntaiTesti"
